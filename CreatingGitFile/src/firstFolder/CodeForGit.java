@@ -14,6 +14,7 @@ public class CodeForGit {
 		
 		SimpleDateFormat sdf = new SimpleDateFormat("MM/d/yyyy HH:mm:SS");
 		System.out.println(sdf.format(d));
+		System.out.println("checkin test for git");
 		
 		//www.tutorialspoint.com/java/java_date_time.htm
 		
