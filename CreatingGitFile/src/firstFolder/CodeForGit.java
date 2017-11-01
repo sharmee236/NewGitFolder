@@ -16,6 +16,8 @@ public class CodeForGit {
 		System.out.println(sdf.format(d));
 		System.out.println("checkin test for git");
 		
+		//ref book for git == https:git-scm.com/book/en/v2
+		
 		//www.tutorialspoint.com/java/java_date_time.htm
 		
 		
